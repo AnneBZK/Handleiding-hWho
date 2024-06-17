@@ -12,6 +12,8 @@ Verzoeken kunnen tot bestuursorganen en tot andere instellingen met een publieke
 
 Met deze handleiding worden organisaties die onder de toepassing van deze wet vallen, geholpen bij de uitvoering ervan. De handleiding bevat een overzicht van het bredere wettelijk kader voor hergebruik van overheidsinformatie, een overzicht en uitleg van wijzigingen ten opzichte van de vorige versie van de Who. Daarnaast biedt de handleiding aanbevelingen voor herbruikbaarheid van overheidsinformatie, stappenplannen, aanbevelingen voor het verstrekken van overheidsinformatie, aanbevelingen voor de bescherming van rechten van anderen, regels voor de kosten en praktijkvoorbeelden.
 
+Deze handleiding is geen beleidsregel. 
+
 ## Voor wie is deze handleiding? 
 Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’ (alle bestuursorganen vallen onder dat begrip), overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen.
 
