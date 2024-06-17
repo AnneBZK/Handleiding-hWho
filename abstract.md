@@ -1,0 +1,5 @@
+Op 19 juni 2024 is de Wet implementatie Open data richtlijn in werking getreden. Iedereen kan een verzoek indienen tot het verstrekken van overheidsinformatie. Daarnaast is er een proactieve plicht om bepaalde categorieën overheidsinformatie voor hergebruik beschikbaar te stellen. 
+
+Deze informatie kan worden gebruikt voor zowel commerciële als niet-commerciële doeleinden. Het voornaamste doel is het creëren van economische meerwaarde. Overheidsinformatie kan waarde hebben voor partijen buiten de overheid en als basis dienen voor nieuwe producten en diensten, zoals apps, visualisaties en analyses. De verstrekte informatie kan daarbij worden gecombineerd met andere informatie of data. 
+
+Verzoeken kunnen niet alleen tot bestuursorganen worden gericht, maar ook tot andere instellingen met een publieke taak en tot archieven, musea en bibliotheken. Aan de hand van 14 vragen en een stroomschema wordt u door de nieuwe wet heengeleid. De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik, is niet bindend en laat ruimte voor maatwerk en het toepassen van een in bepaalde gevallen andere wijze van afhandeling.
