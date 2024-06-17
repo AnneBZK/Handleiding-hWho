@@ -15,7 +15,7 @@ Dit gebeurt op basis van de volgende aanpak:
 Er wordt eerst een geactualiseerde en integrale handleiding opgesteld die (overheids-)organisaties helpt te voldoen aan de minimale vereisten die uit de gewijzigde Who voortvloeien. Vervolgens wordt de geactualiseerde versie van de handleiding verrijkt en aangescherpt met aanvullende instructies, adviezen, praktijkinzichten en ervaringen, alsook verwijzingen naar gerelateerde handleidingen, zoals de Handleiding HVDS die ontwikkeld wordt door Geonovum. Dit wordt gedaan aan de hand van een backlog.
 
 ### Planning
-Het streven is om de geactualiseerde handleiding voor, of gelijktijdig met het inwerktreden van het gewijzigde wetsvoorstel te publiceren. De interne deadline staat op begin juni 2024. Een planning en plan van aanpak voor het beheer en de doorontwikkeling van de handleiding wordt later uitgewerkt.
+Het streven is om de geactualiseerde handleiding voor, of gelijktijdig met het inwerktreden van het gewijzigde wetsvoorstel te publiceren. De interne deadline staat op begin juli 2024. Een planning en plan van aanpak voor het beheer en de doorontwikkeling van de handleiding wordt later uitgewerkt.
 
 ### Rollen en verantwoordelijkheden
 Er zijn drie groepen stakeholders betrokken bij het actualiseren en doorontwikkelen van de handleiding, met verschillende rollen en verantwoordelijkheden.
