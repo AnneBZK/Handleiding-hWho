@@ -1,4 +1,4 @@
-# Algemeen
+# Algemeen TEST
 ## Waarover gaat deze handleiding?
 Op [datum] is de Wet implementatie Open data richtlijn in werking getreden. De Wet hergebruik van overheidsinformatie (Who) is daardoor gewijzigd. Burgers en bedrijven kunnen een verzoek indienen tot het verstrekken van overheidsinformatie. Daarnaast krijgen zij actief overheidsinformatie beschikbaar gesteld. 
  
